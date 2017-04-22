@@ -1,0 +1,13 @@
+{
+  "name": "mypeer",
+  "version": "0.0.1",
+  "description": "Minimal and modular peers with WebRTC",
+  "author": "Carlos Galarza <carloslfu@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "webrtc",
+    "minimal",
+    "modular"
+  ],
+}
